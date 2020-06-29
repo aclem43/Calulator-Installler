@@ -1,1 +1,1 @@
-CurrentVersion = "v0.0.5"
+CurrentVersion = "v0.0.6"
